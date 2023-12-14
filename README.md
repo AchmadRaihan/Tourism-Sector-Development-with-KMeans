@@ -16,3 +16,13 @@ Indonesia is a country that possesses a wide variety of natural wealth, includin
 In 2022, the number of foreign tourists arriving in Indonesia, especially through air travel, was dominated by Ngurah Rai Airport in Bali, with a total of 2.15 million visits (39.37 percent), followed by Soekarno-Hatta Airport with 934,660 visits (17.08 percent), and Kualanamu Airport in North Sumatra with 74,500 visits (1.36 percent). Based on this data, it is evident that the number of visits to Bali is significantly higher compared to other provinces. However, when examining the data on unemployment by province in Indonesia, Bali is not among the top 10 provinces with the highest unemployment rates. This means that there is a need to enhance the utilization of the tourism sector's potential in other provinces to reduce unemployment. Increasing the utilization of the tourism sector can lead to higher job creation, especially in the tourism trade and culinary sectors [6].
 
 Currently, the government has set a target to create 4.4 million new jobs in the tourism sector by 2024. Because the absorption of labor in the tourism sector has a significant impact on increasing the income of the community and expanding job opportunities. Therefore, in this Capstone Project, we will use the K-Means method to analyze the potential development of the tourism sector based on the target employment absorption in Indonesia.
+
+### **Project Goals**
+This project's main objective is to give the government/tourism manager the data it needs to update the management plan for tourism.  The project will continue internally for the time being and be used to guide future stakeholder and public scoping.  The following goals will help to accomplish this goal: 
+- Cluster Profile: 
+Create a profile for every cluster by relevant variable.
+- Dashboard:
+Visualization of the cluster representation that could help users to analyze and explore the data with the cluster easily.
+- Sustainability Insight: 
+Provide information and insight of tourism sustainability by analyzing the data for the government or the authorized manager in the area.
+
