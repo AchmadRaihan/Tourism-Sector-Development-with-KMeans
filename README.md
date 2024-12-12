@@ -1,6 +1,6 @@
 # **Tourism Sector Development in Indonesian Based on K-means Method**
 
-Note:
+Note:  
 [Click this to see the dashboard](https://lookerstudio.google.com/u/0/reporting/1eb410df-a8ea-41a3-a137-a702c73a1017/page/pV0fD)  
 [Click to see Project Proposal](https://docs.google.com/document/d/1vwuSAHHrbVoBxHVorGLVAzw0GzEfMN3_/edit?usp=sharing&ouid=113572578723738497743&rtpof=true&sd=true)
 
