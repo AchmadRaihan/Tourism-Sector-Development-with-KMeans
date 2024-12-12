@@ -1,7 +1,8 @@
 # **Tourism Sector Development in Indonesian Based on K-means Method**
 
 Note:
-[Click this to see the dashboard](https://lookerstudio.google.com/u/0/reporting/1eb410df-a8ea-41a3-a137-a702c73a1017/page/pV0fD)
+[Click this to see the dashboard](https://lookerstudio.google.com/u/0/reporting/1eb410df-a8ea-41a3-a137-a702c73a1017/page/pV0fD)  
+[Click to see Project Proposal](https://docs.google.com/document/d/1vwuSAHHrbVoBxHVorGLVAzw0GzEfMN3_/edit?usp=sharing&ouid=113572578723738497743&rtpof=true&sd=true)
 
 ### **Problem Statement**
 Indonesia has a large population and there are various types of tourism. However, Indonesia is one of the countries most affected by the COVID-19 pandemic in the tourism sector. Then, by 2021, the number of unemployed in Indonesia reached 8.75 million. It is a challenge for the government to be able to restore and develop the tourism sector in Indonesia.
